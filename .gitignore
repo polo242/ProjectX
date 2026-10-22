@@ -1,0 +1,15 @@
+# Session Firefox connectée à X, données collectées, secrets
+profile/
+*.sqlite3
+*.sqlite3-*
+*.jsonl
+*.tmp
+last_summary.json
+last_capture_summary.json
+alerts_preview.jsonl
+content_model.json
+training_report.json
+.env
+__pycache__/
+*.pyc
+.venv/

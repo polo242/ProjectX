@@ -1,0 +1,305 @@
+{
+  "origin": "Captures des abonnements de TruckPrincess1, fournis par l’utilisateur",
+  "accounts": [
+    {
+      "handle": "izebel_eth",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "smileycapital",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "x256xx",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "0xEquinox_",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "TitanExchange_",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "PILTR_XBT",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "AltcoinSherpa",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "Waffle_XBT",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "koolkrypto223",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "CoinGurruu",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "astekz",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "alphawifhat",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "theunipcs",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "Lamsito_eth",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "mellometrics",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "RuneCrypto_",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "UnpaidSince87",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "bot",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "pheromones_sol",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "gudmansachs",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "aidge_",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "labubu_trader",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "Official_Upbit",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "404flipped",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "CookerFlips",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "MomoOnChain",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "robby4c",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "HoneyTapTrading",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "px_721",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "brandank_cr",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "tribeadvisors",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "VacaPiola",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "Lighter_xyz",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "bitgoten",
+      "enabled": false,
+      "protected": true,
+      "verified_official": false
+    },
+    {
+      "handle": "888_Cartel",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "107eror",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "playrisk",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "extendedapp",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "kyudo31",
+      "enabled": false,
+      "protected": true,
+      "verified_official": false
+    },
+    {
+      "handle": "Aster_DEX",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "traderpow",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "iamnotmagi",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "moonshot",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "heavendex",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "claudeai",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "LinceFinance",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "Bancrypto__",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "DegenPing",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "cryptolyxe",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    },
+    {
+      "handle": "TendersAlt",
+      "enabled": true,
+      "protected": false,
+      "verified_official": false
+    }
+  ]
+}
